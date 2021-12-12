@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Arif Shariar Rahman</h1>
 <h3 align="center">Undergrad Student of CSE, BUET.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifshariar&label=Profile%20views&color=0e75b6&style=flat" alt="arifshariar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arifshariar&label=Profile%20views&color=0e75b6&style=flat" alt="arifshariar" /> </p>
 
 - 🔭 I’m currently working on **Spacey - An online platform for sharing home and space!**
 
