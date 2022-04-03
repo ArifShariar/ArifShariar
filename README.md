@@ -2,17 +2,17 @@
 <h1 align="center">Hi, I'm Arif Shariar Rahman</h1>
 <h3 align="center">Undergrad Student of CSE, BUET.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arifshariar&label=Profile%20views&color=0e75b6&style=flat" alt="arifshariar" /> </p>
 
-- 🔭 I’m currently working on **Spacey - An online platform for sharing home and space!**
 
-- 🌱 I’m currently learning **Google Earth Engine, Machine Learning**
+- I’m currently working on **Spacey - An online platform for sharing home and space!**
 
-- 🤝 I’m looking for help with **Google Earth Engine Python integration**
+- I’m currently learning **Google Earth Engine, Machine Learning**
+
+- I’m looking for help with **Google Earth Engine Python integration**
 
 - All of my projects are available at [https://arifshariar.github.io/](https://arifshariar.github.io/)
 
-- 💬 Ask me about **Java, Python, Cpp**
+- Ask me about **Java, Python, Cpp, Django**
 
 - Reach me at **1705095@ugrad.cse.buet.ac.bd**
 
@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifshariar&show_icons=true&locale=en&layout=compact" alt="arifshariar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifshariar&" alt="arifshariar" /></p>
+
