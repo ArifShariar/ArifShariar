@@ -4,15 +4,15 @@
 
 
 
-- I’m currently working on **Spacey - An online platform for sharing home and space!**
+- I’m currently working on **Auc-Dias - An online platform for auctions**
 
-- I’m currently learning **Google Earth Engine, Machine Learning**
+- I’m currently learning **Machine Learning, Deep Learning, Neural Networks**
 
-- I’m looking for help with **Google Earth Engine Python integration**
+- I’m looking for help with **Deep Learning Techniques for Covid-19**
 
 - All of my projects are available at [https://arifshariar.github.io/](https://arifshariar.github.io/)
 
-- Ask me about **Java, Python, Cpp, Django**
+- Ask me about **Anything**
 
 - Reach me at **1705095@ugrad.cse.buet.ac.bd**
 
