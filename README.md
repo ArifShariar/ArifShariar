@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, CS Stuffs**
 
-- 📫 How to reach me **1705095@gmail.com**
+- 📫 How to reach me **arifshariar.buet@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JWINOFLgrpZQ9Khuqc6qhNwPfY5mS-gH/view?usp=share_link](https://drive.google.com/file/d/1JWINOFLgrpZQ9Khuqc6qhNwPfY5mS-gH/view?usp=share_link)
 
