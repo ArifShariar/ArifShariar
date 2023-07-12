@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arifshariar.buet@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JWINOFLgrpZQ9Khuqc6qhNwPfY5mS-gH/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1q_BGu0U1EriyHujZqnjh7iBY0UChkfb2/view?usp=sharing)
 
 - ⚡ Fun fact **Food makes me think clearly**
 
