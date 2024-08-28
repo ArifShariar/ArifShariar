@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Arif Shariar Rahman</h1>
+- I'm pursuing my PhD in Software Engineering at Wayne State University, Detroit, MI.
 
-- 🔭 I’m currently working for [GreHus](https://grehus.com/) and [Enosis Solutions](https://www.enosisbd.com/)
+- Previously I worked for [GreHus](https://grehus.com/) and [Enosis Solutions](https://www.enosisbd.com/)
 
-- 🌱 I’m currently learning **GraphQL, Machine Learning**
+- Ask me about **Python, Java, CS Stuffs**
 
-- 💬 Ask me about **Python, Java, CS Stuffs**
+- How to reach me **arifshariar.buet@gmail.com**
 
-- 📫 How to reach me **arifshariar.buet@gmail.com**
+- Know about my experiences [My Resume](https://drive.google.com/file/d/1q_BGu0U1EriyHujZqnjh7iBY0UChkfb2/view?usp=sharing)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1q_BGu0U1EriyHujZqnjh7iBY0UChkfb2/view?usp=sharing)
-
-- ⚡ Fun fact **Food makes me think clearly**
+- Fun fact **Food makes me think clearly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
