@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Arif Shariar Rahman</h1>
+
 - I'm pursuing my PhD in Software Engineering at Wayne State University, Detroit, MI.
 
 - Previously I worked for [GreHus](https://grehus.com/) and [Enosis Solutions](https://www.enosisbd.com/)
